@@ -3,7 +3,7 @@
 
 {"description":"Hope TV Extra la premiere television d'afrique en characteres musicale sans oublier journal, sports, theatre, musique, series, cinema, culturel, emmettant depuis la ville de Johannesburg South africanma et 24h/24 nous sommes en direct sur page Facebook, YouTube, website www.hopetvafrica.co.za Google play store hope tv africa email 📧 hopetvafrica2020@gmail.com contact 0027846809542","sources":["http://hopetvafrica.com:8084/hls/stream.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTA3MTE4NDlf/hopeExtra.jpg","title":"HOPE TV EXTRA"},
 
-{"descriptions":"Novelas TV est une chaîne télévisée qui diffuse les Series mexicaines, Brésilien, Philippines Africains et autres...","source":["http://51.254.199.122:8080/NoveLas/index.m3u8"],"subtitles":"All Channel","thumb":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","titles":"NOVELAS TV"},
+{"description":"Novelas TV est une chaîne télévisée qui diffuse les Series mexicaines, Brésilien, Philippines Africains et autres...","sources":["http://51.254.199.122:8080/NoveLas/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","title":"NOVELAS TV"},
 
 {"description":"Novelas TV est une chaîne télévisée qui diffuse les Series mexicaines, Brésilien, Philippines Africains et autres...","sources":["https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNTQyMjA4MDVf/novelastv.jpg","title":"NOVELAS 2"},
 
