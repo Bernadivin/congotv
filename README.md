@@ -35,7 +35,7 @@
 
 {"description":"PSTV est la chaine de la RDC qui emette a kinshasa en diffusant des emissions politiques, sports, theatres, musique et autres....","sources":["http://51.254.199.122:8080/PSTV/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNDU0NzA5MzFf/pstv.jpg","title":"PSTV"},
 
-{"description":"CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration et tant d'autres","sources":["http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg","titless":"CCPV TV"},
+{"description":"CCPV TV est une chaine chrétienne d'Évangélisation Mondiale avec des programmes riche pour l'édification des chrétiens tels que, prédications, enseignements, prières, adoration et tant d'autres","sources":["http://89.163.146.99/CCPV-TV/tracks-v1a1/mono.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjQ1ODkyOTlf/ccpv.jpg","title":"CCPV TV"},
 
 {"description":"La Tele 50 est une de television congolaise qui emettent a Kinshasa avec plusieurs diversites des emissions Politiques, culturel, sports et tant d’autres.","sources":["http://51.254.199.122:8080/tele50/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNDU0NzM0Mzhf/tele50.jpeg","title":"TELE 50"},
 
