@@ -79,7 +79,7 @@
 
 {"description":"TV 2","sources":["https://player.castr.com/live_a19a5b70fd9b11ee8ced67fa0559b7a1/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","title":"FACE TV"},
 
-{"description":"TV 2","sources":["https://player.castr.com/live_a19a5b70fd9b11ee8ced67fa0559b7a1"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","title":"FACE TV 2"},
+{"description":"TV 2","sources":["https://live-hls-qunv.livepush.io/live_cdn/em8A-kbzIfHqu73/index.mpd"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","title":"FACE TV 2"},
 
 {"description":"TV 2","sources":["https://player.castr.com/live_a19a5b70fd9b11ee8ced67fa0559b7a1/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","title":"FACE TV 3"},
 
