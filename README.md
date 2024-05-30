@@ -83,9 +83,9 @@
 
 {"description":"TV 2","sources":["https://player.castr.com/live_a19a5b70fd9b11ee8ced67fa0559b7a1/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","title":"FACE TV 3"},
 
-{"description":"TV 2","sources":["https://player.castr.com/live_a19a5b70fd9b11ee8ced67fa0559b7a1/chuncks.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","title":"FACE TV 4"},
+{"description":"TV 2","sources":["https://livepush.io/embed/em8A-kbzIfHqu73_audio"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","title":"FACE TV 4"},
 
-{"description":"TV 2","sources":["https://player.restream.io/?token=e827244437aa479fb6ea99ab4088175e"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","title":"FACE TV 5"}]}]}
+{"description":"TV 2","sources":["https://livepush.io/embed/em8A-kbzIfHqu73"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","title":"FACE TV 5"}]}]}
 
 
 
