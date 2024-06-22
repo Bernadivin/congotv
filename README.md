@@ -1,11 +1,9 @@
 # congotv
-{"categorie":[{"names":"Movie","videos":[{"description":"Mageco Production TV est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["https://stream.castr.com/632c52e09206c19bee72a6d6/live_b072ea703a7111edbfe74bb80437147b"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTExOTgyOTBf/mageco.jpg","title":"MAGECO PRODUCTIONS"},
+{"categorie":[{"names":"Movie","videos":[{"description":"Mageco Production TV est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["https://livepush.io/embed/em8A-kbzIfHqu73"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTExOTgyOTBf/mageco.jpg","title":"MAGECO PRODUCTIONS"},
 
-{"description":"TV 2","sources":["https://player.castr.com/live_e691e400276e11ed9134c99c0b3a3c51"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","title":"FACE TV"},
+{"description":"TV 2","sources":["https://livepush.io/embed/emM81d0HeKNswEMw"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","title":"FACE TV"},
 
-{"description":"TV 2","sources":["https://livepush.io/embed/em8A-kbzIfHqu73"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","title":"FACE TV 2"},
-
-{"description":"TV 2","sources":["https://stream.castr.com/630bd81fa9990f542884f80e/live_e691e400276e11ed9134c99c0b3a3c51"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","title":"FACE TV 3"},
+{"description":"TV 2","sources":["https://live-hls-qunv.livepush.io/live_cdn/emM81d0HeKNswEMw/index.mpd"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","title":"FACE TV 2"},
 
 {"description":"contactez-nous  Papyepiana@gmail.com et vister notre site web  nzamutv.org","sources":["https://live-hls-qunv.livepush.io/live_cdn/emM81d0HeKNswEMw/index.mpd"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTY0MTI2ODZf/nzamutv.jpeg","title":"NZAMU"},
 
@@ -16,6 +14,8 @@
 {"description":"TV 2","sources":["https://live-hls-qunv.livepush.io/live_cdn/em8A-kbzIfHqu73/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","title":"FACE TV 5"},
 
 {"description":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","sources":["http://69.64.57.208/rtnc/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","title":"RTNC HD"},
+
+{"description":"TV 2","sources":["<iframe src="https://livepush.io/embed/emM81d0HeKNswEMw" width="640" height="480" allowFullScreen="1" frameBorder="0"></iframe>"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","title":"FACE TV 3"},
 
 {"description":"Hope TV Extra la premiere television d'afrique en characteres musicale sans oublier journal, sports, theatre, musique, series, cinema, culturel, emmettant depuis la ville de Johannesburg South africanma et 24h/24 nous sommes en direct sur page Facebook, YouTube, website www.hopetvafrica.co.za Google play store hope tv africa email 📧 hopetvafrica2020@gmail.com contact 0027846809542","sources":["http://hopetvafrica.com:8084/hls/stream.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTA3MTE4NDlf/hopeExtra.jpg","title":"HOPE TV EXTRA"},
 
