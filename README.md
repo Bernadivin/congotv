@@ -1,7 +1,7 @@
 # congotv
 {"categorie":[{"names":"Movie","videos":[{"description":"Mageco Production TV est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["https://stream.castr.com/632c52e09206c19bee72a6d6/live_b072ea703a7111edbfe74bb80437147b/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTExOTgyOTBf/mageco.jpg","title":"MAGECO PRODUCTIONS 2"},
 
-{"description":"TV 2","source":["https://player.castr.com/live_e691e400276e11ed9134c99c0b3a3c51/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","title":"FACE TV"},
+{"description":"TV 2","sources":["https://player.castr.com/live_e691e400276e11ed9134c99c0b3a3c51/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","title":"FACE TV"},
 
 {"description":"TV 2","sources":["https://player.castr.com/live_e691e400276e11ed9134c99c0b3a3c51"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","title":"FACE TV 2"},
 
