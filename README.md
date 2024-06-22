@@ -7,9 +7,9 @@
 
 {"description":"TV 2","sources":["https://stream.castr.com/630bd81fa9990f542884f80e/live_e691e400276e11ed9134c99c0b3a3c51"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","title":"FACE TV 3"},
 
-{"description":"contactez-nous : Papyepiana@gmail.com et vister notre site web : nzamutv.org","sources":["https://live-hls-qunv.livepush.io/live_cdn/emM81d0HeKNswEMw/index.mpd"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTY0MTI2ODZf/nzamutv.jpeg","title":"NZAMU"},
+{"description":"contactez-nous  Papyepiana@gmail.com et vister notre site web  nzamutv.org","sources":["https://live-hls-qunv.livepush.io/live_cdn/emM81d0HeKNswEMw/index.mpd"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTY0MTI2ODZf/nzamutv.jpeg","title":"NZAMU"},
 
-{"description":"Contactez-nous au : +243 851 421 220","sources":["https://livepush.io/embed/emM81d0HeKNswEMw"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTY0MTI3NjNf/cebstv.jpg","title":"CEBS TV"},
+{"description":"Contactez-nous au  +243 851 421 220","sources":["https://livepush.io/embed/emM81d0HeKNswEMw"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTY0MTI3NjNf/cebstv.jpg","title":"CEBS TV"},
 
 {"description":"TV 2","sources":["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","title":"FACE TV 4"},
 
