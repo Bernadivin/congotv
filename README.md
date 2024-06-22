@@ -15,8 +15,6 @@
 
 {"description":"La Radio-Télévision nationale congolaise est créée en 1945. Elle prend le nom de « Office zaïrois de radiodiffusion et de télévision (OZRT) » à l'époque du Zaïre de 1971 à 1997, elle était d'ailleurs la seule agence zaïroise à diffuser sur les ondes hertziennes depuis la loi de 1972. Elle a pris son nom actuel le 17 mai 1997, à la suite de l'arrivée au pouvoir d'AFDL, le parti de Laurent-Désiré Kabila.","sources":["http://69.64.57.208/rtnc/playlist.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNzQwMDgxMTZf/rtncone.png","title":"RTNC HD"},
 
-{"description":"TV 2","sources":["<iframe src="https://livepush.io/embed/emM81d0HeKNswEMw" width="640" height="480" allowFullScreen="1" frameBorder="0"></iframe>"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","title":"FACE TV 3"},
-
 {"description":"Hope TV Extra la premiere television d'afrique en characteres musicale sans oublier journal, sports, theatre, musique, series, cinema, culturel, emmettant depuis la ville de Johannesburg South africanma et 24h/24 nous sommes en direct sur page Facebook, YouTube, website www.hopetvafrica.co.za Google play store hope tv africa email 📧 hopetvafrica2020@gmail.com contact 0027846809542","sources":["http://hopetvafrica.com:8084/hls/stream.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTA3MTE4NDlf/hopeExtra.jpg","title":"HOPE TV EXTRA"},
 
 {"description":"Novelas TV est une chaîne télévisée qui diffuse les Series mexicaines, Brésilien, Philippines Africains et autres...","sources":["http://51.254.199.122:8080/NoveLas/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg","title":"NOVELAS TV"},
