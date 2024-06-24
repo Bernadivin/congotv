@@ -9,7 +9,7 @@
 
 {"description":"Contactez-nous au  +243 851 421 220","sources":["https://limex.tv/egg_pro_tv_fr"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTY0MTI3NjNf/cebstv.jpg","title":"CEBS TV"},
 
-{"description":"TV 2","sources":["http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","title":"FACE TV 4"},
+{"description":"TV 2","sources":["http://45.90.106.7:9790/play/UtQj7430P9@T5C"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","title":"FACE TV 4"},
 
 {"description":"TV 2","sources":["https://live-hls-qunv.livepush.io/live_cdn/em8A-kbzIfHqu73/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","title":"FACE TV 5"},
 
