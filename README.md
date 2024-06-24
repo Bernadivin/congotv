@@ -5,7 +5,7 @@
 
 {"description":"TV 2","sources":["https://live-hls-qunv.livepush.io/live_cdn/emM81d0HeKNswEMw/index.mpd"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","title":"FACE TV 2"},
 
-{"description":"contactez-nous  Papyepiana@gmail.com et vister notre site web  nzamutv.org","sources":["http://138.186.20.13:23200/play/a0g3"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTY0MTI2ODZf/nzamutv.jpeg","title":"NZAMU"},
+{"description":"contactez-nous  Papyepiana@gmail.com et vister notre site web  nzamutv.org","sources":["https://www.youtube.com/watch?v=ED0xr58wmAY"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTY0MTI2ODZf/nzamutv.jpeg","title":"NZAMU"},
 
 {"description":"Contactez-nous au  +243 851 421 220","sources":["https://limex.tv/egg_pro_tv_fr"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTY0MTI3NjNf/cebstv.jpg","title":"CEBS TV"},
 
