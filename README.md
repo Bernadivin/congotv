@@ -3,7 +3,7 @@
 
 {"description":"TV 2","sources":["https://livepush.io/embed/emM81d0HeKNswEMw"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","title":"FACE TV"},
 
-{"description":"TV 2","sources":["https://live-hls-qunv.livepush.io/live_cdn/emM81d0HeKNswEMw/index.mpd"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","title":"FACE TV 2"},
+{"description":"TV 2","sources":["http://pe.shortgod.com/temporal/play.php?id=21"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","title":"FACE TV 2"},
 
 {"description":"contactez-nous  Papyepiana@gmail.com et vister notre site web  nzamutv.org","sources":["https://www.youtube.com/watch?v=ED0xr58wmAY"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTY0MTI2ODZf/nzamutv.jpeg","title":"NZAMU"},
 
