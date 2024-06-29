@@ -5,7 +5,7 @@
 
 {"description":"TV 2","sources":["http://pe.shortgod.com/temporal/play.php?id=21"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","title":"FACE TV 2"},
 
-{"description":"TV 2","sources":["http://pe.shortgod.com/temporal/play.php?id=21"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","title":"FACE TV 3"},
+{"description":"TV 2","sources":["https://helga.iptv2022.com/sh/CBCO_TV/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","title":"FACE TV 3"},
 
 {"description":"contactez-nous  Papyepiana@gmail.com et vister notre site web  nzamutv.org","sources":["https://player.twitch.tv/?channel=kolotvlive&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&volume=1"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTY0MTI2ODZf/nzamutv.jpeg","title":"KOLO TV"},
 
