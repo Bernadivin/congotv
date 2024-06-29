@@ -9,9 +9,9 @@
 
 {"description":"contactez-nous  Papyepiana@gmail.com et vister notre site web  nzamutv.org","sources":["https://player.twitch.tv/?channel=kolotvlive&enableExtensions=true&muted=false&parent=twitch.tv&player=popout&volume=1"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTY0MTI2ODZf/nzamutv.jpeg","title":"KOLO TV"},
 
-{"description":"Contactez-nous au  +243 851 421 220","sources":["https://limex.tv/egg_pro_tv_fr"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTY0MTI3NjNf/cebstv.jpg","title":"CEBS TV"},
+{"description":"Contactez-nous au  +243 851 421 220","sources":["http://45.90.106.7:9790/play/CzQL529P7@E4V"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTY0MTI3NjNf/cebstv.jpg","title":"+ TV 2"},
 
-{"description":"TV 2","sources":["https://www.youtube.com/watch?v=ED0xr58wmAY"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","title":"FACE TV 4"},
+{"description":"TV 2","sources":["http://45.90.106.7:9790/play/BfQm2084L6@U4N"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","title":"+ TV"},
 
 {"description":"TV 2","sources":["https://live-hls-qunv.livepush.io/live_cdn/em8A-kbzIfHqu73/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","title":"FACE TV 5"},
 
