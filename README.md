@@ -9,7 +9,7 @@
 
 {"description":"contactez-nous  Papyepiana@gmail.com et vister notre site web  nzamutv.org","sources":["http://145.239.5.177:8080/349/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTY0MTI2ODZf/nzamutv.jpeg","title":MOVIES"},
 
-{"description":"Contactez-nous au  +243 851 421 220","sources":["http://45.90.106.7:9790/play/CzQL529P7@E4V"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTY0MTI3NjNf/cebstv.jpg","title":"+ TV 2"},
+{"description":"Serie Club","sources":["http://145.239.5.177:8080/355/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTY0MTI3NjNf/cebstv.jpg","title":"SERIE CLUB"},
 
 {"description":"TV 2","sources":["http://45.90.106.7:9790/play/BfQm2084L6@U4N"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","title":"+ TV"},
 
