@@ -3,7 +3,7 @@
 
 {"description":"TV 2","sources":["http://145.239.5.177:8080/337/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","title":"FACE TV"},
 
-{"description":"TV 2","sources":["http://pe.shortgod.com/temporal/play.php?id=21"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","title":"FACE TV 2"},
+{"description":"Canal+ Elles TV","sources":["http://145.239.5.177:8080/347/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","title":"CANAL+ ELLES"},
 
 {"description":"TV 2","sources":["https://helga.iptv2022.com/sh/CBCO_TV/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","title":"FACE TV 3"},
 
