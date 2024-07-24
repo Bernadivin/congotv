@@ -1,5 +1,7 @@
 # congotv
-{"categorie":[{"names":"Movie","videos":[{"description":"Mageco Production TV est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["http://145.239.5.177:8080/318/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTExOTgyOTBf/mageco.jpg","title":"TVBRIZR"},
+{"categorie":[{"names":"Movie","videos":[{"description":"DPK TV est une chaine de television....","sources":["https://helga.iptv2022.com/sh/DPK_Tv/tracks-v1a1/mono.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/NDZfNTcxMjU4NTlf/dpktv.jpg","title":"DPK TV"},
+
+{"description":"Mageco Production TV est une chaîne privée de la RDCONGO émettant à Kinshasa","sources":["http://145.239.5.177:8080/318/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yOTExOTgyOTBf/mageco.jpg","title":"TVBRIZR"},
 
 {"description":"TV 2","sources":["http://145.239.5.177:8080/337/index.m3u8"],"subtitle":"All Channels","thumb":"https://od.lk/s/M18yNjczMTIxNjhf/facetv.png","title":"FACE TV"},
 
